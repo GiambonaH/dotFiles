@@ -1,2 +1,2 @@
-# dotFiles
-Dot files confif
+# dotfiles
+Dot files config
